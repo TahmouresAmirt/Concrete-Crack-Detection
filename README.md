@@ -15,7 +15,7 @@ Training neural networks from scratch requires massive datasets and computationa
 * **7-stage approach:** A step-by-step guide through the transfer learning process, from data preparation to model evaluation.
 
 
-**Key Stages:**
+**Key Factors:**
 
 1. **Dataset & Preprocessing:** Explore the dataset, perform necessary pre-processing, and understand data augmentation techniques.
 2. **Transfer Learning Model Selection:** Learn about different pre-trained models and choose the optimal one for concrete crack detection.
